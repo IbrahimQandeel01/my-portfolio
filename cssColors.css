@@ -1,0 +1,21 @@
+
+/* CSS HSL */
+/* 
+--lapis-lazuli: hsla(211, 66%, 35%, 1);
+--raisin-black: hsla(215, 23%, 14%, 1);
+--taupe: hsla(15, 6%, 27%, 1);
+--dark-moss-green: hsla(89, 28%, 32%, 1);
+--eerie-black: hsla(210, 13%, 12%, 1);
+--kelly-green: hsla(97, 48%, 47%, 1);
+--eerie-black-2: hsla(206, 11%, 12%, 1); */
+body{
+    color: hsla(215, 23%, 14%, 1); 
+    color: hsla(211, 66%, 35%, 1);
+    color: hsla(15, 6%, 27%, 1);
+    color: hsla(89, 28%, 32%, 1);
+    color: hsla(210, 13%, 12%, 1);
+    color: hsla(97, 48%, 47%, 1);
+    color: hsla(206, 11%, 12%, 1);
+    color: #6ab13e;
+
+}
